@@ -610,4 +610,8 @@ display: none;
         align-items: center;
 
     }
+
+    .footer-line {
+        width: 25em;
+    }
   }
