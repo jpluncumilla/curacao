@@ -550,25 +550,12 @@ nav img {
         margin-bottom: 4em;
     }
 
-    /* REGISTRATION TEXT */
-
-    .registration {
-        width: 30em;
-        margin-bottom: 2em;
-    }
-
-    /* CARDS HEADER */
-
-    .cards-header-hr {
-        width: 5em;
-    }
-
     /* CARDS */
 
     .card {
         display: flex;
         align-items: center;
-        width: 30em;
+        width: 90%;
         background-color: #ffff;
         position: relative;
         margin-bottom: 4em;
@@ -582,8 +569,12 @@ nav img {
         width: 100%;
     }
 
+    /* BOTTOM HERO */
+    .bottom-hero {
+        width: 100%
+    }
     .promo-text-p {
-        width: 30em;
+        width: 90%;
         font-size: 15px;
         justify-content: center;
         align-items: center;
