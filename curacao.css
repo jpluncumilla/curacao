@@ -562,6 +562,7 @@ nav img {
         flex-direction: column;
         align-content: center;
         overflow: hidden;
+        max-width: 100%;
     }
 
     .card-img {
@@ -571,7 +572,8 @@ nav img {
 
     /* BOTTOM HERO */
     .bottom-hero {
-        width: 100%
+        width: 100%;
+        max-width: 100%;
     }
     .promo-text-p {
         width: 90%;
@@ -587,6 +589,8 @@ nav img {
     /* Footer */
     .footer {
         overflow: hidden;
+        width: 100%;
+        max-width: 100%;
     }
 
     .footer-row {
