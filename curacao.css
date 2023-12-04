@@ -482,6 +482,7 @@ nav img {
     .promo-text {
         width: 100%;
         max-width: 100%;
+        overflow: hidden;
     }
     
     .promo-text-first {
@@ -573,6 +574,7 @@ nav img {
         margin-bottom: 4em;
         flex-direction: column;
         align-content: center;
+        overflow: hidden;
     }
 
     .card-img {
@@ -590,17 +592,12 @@ nav img {
     .promo-text h2 {
         margin-top: 0em;
     }
-    /* SANDALS GUARANTEE */
-
-    .sandals-guarantee-paragraph {
-        font-size: 15px;
-        width: 30em;
-    }
 
     /* Footer */
     .footer {
         overflow: hidden;
     }
+
     .footer-row {
         display: flex;
         align-items: flex-start;
